@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuele Scherini
 - 👀 I’m interested in software development
-- 📚 I’m currently studying computer science & engineering at Polytechnic University of Milan
+- 📚 I’m currently studying computer science & engineering at Politecnico di Milano
 - 📫 How to reach me https://www.samuelescheriniweb.altervista.org
 
 <!---
